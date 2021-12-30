@@ -1,4 +1,4 @@
-#Set node's Chef Environment
+# Set node's Chef Environment
 
 This automation can be used when we need to change the node's Chef Environment at a given point of time.
 
