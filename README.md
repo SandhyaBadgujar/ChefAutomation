@@ -1,2 +1,2 @@
 # ChefAutomation
-Automation with Chef
+Automation in Chef using Powershell.
